@@ -1,2 +1,2 @@
 # Python_RPS
- Rock, Paper, Scissors program vs Bot made with python
+A simple, terminal based Rock, Paper, Scissors program against a Bot made with python
